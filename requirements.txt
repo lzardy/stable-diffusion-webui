@@ -60,7 +60,7 @@ kornia==0.6
 loguru
 opencv-python-headless==4.6.0.66
 open-clip-torch==2.0.2
-pandas==1.4.3
+pandas==1.5.2
 pudb==2019.2
 pytorch-lightning==1.7.7
 realesrgan==0.3.0
