@@ -34,7 +34,7 @@ streamlit-tensorboard==0.0.2
 hydralit==1.0.14
 hydralit_components==1.0.10
 stqdm==0.0.4
-diffusers==0.4.1
+diffusers==0.13.1
 
 # Img2text
 ftfy==6.1.1
